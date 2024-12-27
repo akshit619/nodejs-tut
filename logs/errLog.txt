@@ -1,0 +1,3 @@
+20240902	01:12:55	f607af24-6012-45e2-9515-3f0e2bd23f74	Error: Not allowed by cors
+20240902	17:47:51	84fe65f6-e770-4635-9531-7b66b52dc4cf	SyntaxError: Unexpected token '"', ""{firstnam"... is not valid JSON
+20240904	01:59:20	de4c1403-e4f2-47ef-b267-c51b8d90925e	ReferenceError: data is not defined
