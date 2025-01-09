@@ -1,4 +1,4 @@
-## InfoSync - Employee & User Management Backend
+## Data Link - Employee & User Management Backend
 • Developed a robust backend server using Node.js (Express.js) to manage and streamline user and employee information for organizational operations.
 
 • Implemented JWT-based authentication, ensuring secure and scalable user login and access control across the application.
